@@ -43,7 +43,7 @@ module.exports = {
         langs: {
                 bn: {
                         noInput: "বলো বেবি😘",
-                        teachUsage: "❌ | সঠিক নিয়ম: teach [প্রশ্ন] - [উত্তর]",
+                        teachUsage: "❌ | সঠিক নিয়ম: teach [I Love You] - [I Love You 2 Bby 🙂🤭",
                         teachSuccess: "✅ উত্তর যুক্ত হয়েছে: \"%1\" -> \"%2\"\n• টিচার: %3\n• মোট ডাটা: %4",
                         removeUsage: "❌ | সঠিক নিয়ম: remove [প্রশ্ন] - [ইনডেক্স]",
                         editUsage: "❌ | সঠিক নিয়ম: edit [প্রশ্ন] - [নতুন উত্তর]",
@@ -168,12 +168,12 @@ module.exports = {
                         api.setMessageReaction("🪽", event.messageID, () => {}, true);
                         const randomReplies = [
                                 "babu khuda lagse🥺",
-                                "Hop beda😾,Boss বল boss😼",
+                                "Baby bolle Kick Khabi sala 😜😹",
                                 "আমাকে ডাকলে ,আমি কিন্তূ কিস করে দেবো😘 ",                      
-                                "naw amr boss k message daw m.me/mahmud0x7",
+                                "Tui To Amr Thekew Picchi 😱😤",
                                 "গোলাপ ফুল এর জায়গায় আমি দিলাম তোমায় মেসেজ",
                                 "বলো কি বলবা, সবার সামনে বলবা নাকি?🤭🤏",
-                                "𝗜 𝗹𝗼𝘃𝗲 𝘆𝗼𝐮__😘😘",
+                                "Tui Ker Jani Ex 🤔",
                                 "এটায় দেখার বাকি সিলো_🙂🙂🙂",
                                 "𝗕𝗯𝘆 𝗯𝗼𝗹𝗹𝗮 𝗽𝗮𝗽 𝗵𝗼𝗶𝗯𝗼 😒😒",
                                 "𝗕𝗲𝘀𝗵𝗶 𝗱𝗮𝗸𝗹𝗲 𝗮𝗺𝗺𝘂 𝗯𝗼𝗸𝗮 𝗱𝗲𝗯𝗮 𝘁𝗼__🥺",
