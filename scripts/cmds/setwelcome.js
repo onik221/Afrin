@@ -22,7 +22,18 @@ module.exports = {
 					+ "\n  + {multiple}: bạn || các bạn"
 					+ "\n  + {session}:  buổi trong ngày"
 					+ "\n\n   Ví dụ:"
-					+ "\n    {pn} text Hello {userName}, welcome to {boxName}, chúc {multiple} một ngày mới vui vẻ"
+					+ "\n    {pn} text Hello {userName}, welcome to {boxName}, ❥᭄𝐀𝐬𝐬𝐚𝐥𝐚𝐦𝐮w𝐚𝐥𝐚𝐢𝐤𝐮𝐦»̶̶͓͓͓̽̽̽ _
+
+আমাদের ছোট্ট গ্রুপে আসার জন্য
+
+ আপনাকে অসংখ্য ধন্যবাদ 🥰🥰আশা করি
+
+ আমাদের সাথে থাকবেন সবসময়
+
+💓══❥ⵗⵗ̥̥̊̊ⵗ̥̥̥̥̊̊̊ⵗ̥̥̥̥̥̊̊̊̊ⵗ̥̥̥̥̥̥̊̊̊̊̊ⵗ̥̥̥̥̥̥̥̊̊̊̊̊ⵗ̥̥̥̥̥̥̥̥̊̊̊̊ⵗ̥̥̥̥̥̥̥̥̥̊̊̊ⵗ̥̥̥̥̥̥̥̥̥̥̊̊ⵗ̥̥̥̥̥̥̥̥̥̥̥ⵗ̥̥̥̥̥̥̥̥̥̥̊̊ⵗ̥̥̥̥̥̥̥̥̥̊̊̊ⵗ̥̥̥̥̥̥̥̥̊̊̊̊ⵗ̥̥̥̥̥̥̥̊̊̊̊̊ⵗ̥̥̥̥̥̥̊̊̊̊̊ⵗ̥̥̥̥̥̊̊̊̊ⵗ̥̥̥̥̊̊̊ⵗ̥̥̊̊══❥💓»̶̶͓͓͓̽̽̽ ⑅⃝ ✺❥᭄ ✺ ❥᭄ ї̅̐̊̐ї̅̐̊̐̊̐̊̊̊̐̊̊̐̊̐̊̐̊ї̅̐̊̐  ______ღ
+❁͜❁ গ্রুঁপেঁরঁ পঁক্ষঁ থেঁকেঁ আঁপঁনাঁকেঁ স্বাঁগঁতঁমঁ♥⃝🥰
+
+🥰🥀ᏔᎬᏞᏟϴᎷᎬ 🥀 By C.E.O Onik{multiple} một ngày mới vui vẻ"
 					+ "\n"
 					+ "\n   Reply (phản hồi) hoặc gửi kèm một tin nhắn có file với nội dung {pn} file: để thêm tệp đính kèm vào tin nhắn chào mừng (ảnh, video, audio)"
 					+ "\n\n   Ví dụ:"
